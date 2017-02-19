@@ -10,8 +10,8 @@ This is a collection of electronic device symbols and footprints for KiCad v4.0.
 | HM_10 | HM-10 Bluetooth LE module  | [(datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/HM-10.pdf) |
 | MCP1755 | Microchip MCP1755 LDO regulator | [(datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/MICROCHIP_MCP1755.pdf) |
 | MCP73832T | Microchip MCP73832T Li-Poly charger | [(datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/MICROCHIP_MCP73831.pdf) |
-| MICRO-B_USB | Micro USB type B connector | [ (datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/AMPHENOL_FCI_MICRO_B_USB.pdf) |
-| MOSFET-P | P-Channel MOSFET |  |
+| MICRO_B_USB | Micro USB type B connector | [ (datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/AMPHENOL_FCI_MICRO_B_USB.pdf) |
+| MOSFET_P | P-Channel MOSFET |  |
 | OSRAM_LRTB_GFTG | Osram RGB LED | [(datasheet)](https://github.com/SolderByte/solderbyte-kicad/releases/download/0.0.0/OSRAM_LRTB_GFTG.pdf) |
 
 ## Footprint List

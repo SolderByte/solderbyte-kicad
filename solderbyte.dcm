@@ -20,12 +20,12 @@ D MCP73832T Li-polymer Charge Management Controller
 K Li-Po, Li-Ion
 $ENDCMP
 #
-$CMP MICRO-B_USB
-D Micro-B USB connector
+$CMP MICRO_B_USB
+D Micro B USB connector
 K Micro USB
 $ENDCMP
 #
-$CMP MOSFET-P
+$CMP MOSFET_P
 D MOSFET-P
 K MOSFET-P
 $ENDCMP
